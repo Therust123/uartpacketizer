@@ -1,4 +1,0 @@
-Ways to increase the maxm operating frequency
-1)We can implement one hot coding or grey coding for state encoding instead of binary encoding
-2)There us too much of if else statement in the uart transmitting block , we can pipeline that 
-3)The flow of input data is like fifo to fsm to transmitter we can directly feed the data from fifo to transmitter , but logics needs to be in place.
